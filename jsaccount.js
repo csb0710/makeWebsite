@@ -24,7 +24,6 @@ function get_inform() {
     var temp = "회원가입 정보\n\n" + "ID : " + obj.id + "\npassword : " + obj.password + "\n이름 : " + obj.name;
     alert(temp);
     list.push(str);
-    for(int i = 0;)
 
 }
 
